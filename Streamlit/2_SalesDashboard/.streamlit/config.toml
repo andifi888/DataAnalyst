@@ -1,0 +1,13 @@
+[theme]
+# Base color scheme: "light" or "dark"
+base="light" 
+# Primary accent color
+primaryColor="#F63366" 
+# Main background color
+backgroundColor="#ffffffff" 
+# Background color for widgets and sidebar
+secondaryBackgroundColor="#F0F2F6" 
+# Text color
+textColor="#262730" 
+# Font family: "sans serif", "serif", or "mono"
+font="sans serif" 
